@@ -1,4 +1,5 @@
 def product():
+    print("This function divide 2 numbers")
     x=int(input("Please introduce a number: "))
     y=int(input("Please introduce a number: "))
     if y != 0:
